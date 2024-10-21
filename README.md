@@ -79,4 +79,4 @@ Requisitos No Funcionales
 •    Seguridad: Uso de JWT para proteger las APIs.
 •    Rendimiento: Optimización del sistema para eficiencia.
 •    Escalabilidad: Posibilidad de migración futura a microservicios.
-•    Pruebas: Implementación de tests para asegurar estabilidad
+•    Pruebas: Implementación de tests para asegurar estabilidad.
